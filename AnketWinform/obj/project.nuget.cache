@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YhW4jymVe6O8CXOzLXHS731ktlRnVTQ9IpouHd6qnMN6myBdkHrjpgZaNG2PDYeHjC+lghOVedAws4FZxP1mcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROG\\source\\repos\\AnketWinform\\AnketWinform\\AnketWinform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
